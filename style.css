@@ -36,8 +36,6 @@ body {
     padding: 0 20px 20px;
 }
 
-
-
 .text button {
     background: #ef6f6c;
     border-radius: 20px;
@@ -70,7 +68,6 @@ body {
     .grid {
         grid-template-columns: repeat(1, 1fr);
        }
-
 
        .grid > article {
            text-align: center;
